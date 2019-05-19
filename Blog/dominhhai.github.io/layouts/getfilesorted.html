@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Title Page</title>
+
+        <!-- Bootstrap CSS -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.3/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <h1 class="text-center">Hello World</h1>
+        
+   
+        
+           
+                
+            
+                <textarea id="text" rows="10"  cols="100"></textarea>
+                <br>
+                <div >
+                    <div class="col-sm-4" class="row">
+                        <label for="">sort</label>
+                            <textarea id="textArea" rows="10" cols="60"></textarea>
+                            <br>
+                    </div>
+                    <div class="col-sm-4" class="row">
+                        <label for="">mục đề phụ bậc 2</label>
+                            <textarea id="text2" rows="10" cols="60"></textarea>
+                            <br>
+                    </div>
+                    <div class="col-sm-4" class="row">
+                        <label for="">mục đề phụ bậc 3</label>
+                            <textarea id="text3" rows="10" cols="60"></textarea>
+                            <br>
+                    </div>
+                    
+                    </div>
+                </div>
+                
+              
+                
+        
+            
+        
+            <button type="submit" id="submit" class="btn btn-primary">sort</button>
+            <button type="submit" id="get1" class="btn btn-primary">lấy mục đề</button>
+            <button type="submit" id="get2" class="btn btn-primary">lấy mục đề phụ</button>
+        
+        
+        <!-- jQuery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Bootstrap JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script>
+            $(document).ready(function (e) {
+                $("#submit").on("click", function (e) {
+                    e.preventDefault;
+                    var text = $("#text").val();
+                var textOutput = $("textarea#textArea");
+                var textSplit = text.split("\n");
+                textSplit.sort();
+                var textToOut = "";
+                textSplit.forEach(element => {
+                    textToOut+=element +"\n";
+                });
+                textOutput.val(textToOut);
+               
+                
+            });
+               
+            $("#get1").on("click", function (e) {
+                    e.preventDefault;
+                    var text = $("#text").val();
+                var textOutput = $("textarea#text2");
+                var textSplit = text.split("\n");
+                
+                var textToOut = "";
+                textSplit.forEach(element => {
+
+                    if(element.match(/^\d+\.\d\s/)){
+                        
+                        textToOut+=element +"\n";
+                    }
+                });
+                textOutput.val(textToOut);
+                
+                
+            });
+            $("#get2").on("click", function (e) {
+                    e.preventDefault;
+                    var text = $("#text").val();
+                var textOutput = $("textarea#text3");
+                var textSplit = text.split("\n");
+                
+                var textToOut = "";
+                textSplit.forEach(element => {
+
+                    if(element.match(/^\d+\.\d+\.\d+\s/)){
+                        
+                        textToOut+=element +"\n";
+                    }
+                });
+                textOutput.val(textToOut);
+               
+            });
+
+
+            });
+       
+        </script>
+    </body>
+</html>

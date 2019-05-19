@@ -1,0 +1,119 @@
+./TrainVal/40/40705.jpg
+./TrainVal/102/7069.jpg
+./TrainVal/12/8612.jpg
+./TrainVal/17/12360.jpg
+./TrainVal/17/12536.jpg
+./TrainVal/18/13126.jpg
+./TrainVal/18/13308.jpg
+./TrainVal/18/13544.jpg
+./TrainVal/18/13617.jpg
+./TrainVal/18/13602.jpg
+./TrainVal/18/14141.jpg
+./TrainVal/18/14087.jpg
+./TrainVal/18/14073.jpg
+./TrainVal/18/14036.jpg
+./TrainVal/18/13983.jpg
+./TrainVal/18/14301.jpg
+./TrainVal/18/14237.jpg
+./TrainVal/18/14179.jpg
+./TrainVal/18/13287.jpg
+./TrainVal/18/14480.jpg
+./TrainVal/18/14745.jpg
+./TrainVal/18/14689.jpg
+./TrainVal/25/23422.jpg
+./TrainVal/26/24078.jpg
+./TrainVal/27/24744.jpg
+./TrainVal/27/24709.jpg
+./TrainVal/3/25541.jpg
+./TrainVal/31/28073.jpg
+./TrainVal/32/29135.jpg
+./TrainVal/37/36028.jpg
+./TrainVal/38/37568.jpg
+./TrainVal/38/37994.jpg
+./TrainVal/38/38008.jpg
+./TrainVal/38/36978.jpg
+./TrainVal/38/36994.jpg
+./TrainVal/39/38527.jpg
+./TrainVal/39/38601.jpg
+./TrainVal/4/39482.jpg
+./TrainVal/41/44258.jpg
+./TrainVal/42/45180.jpg
+./TrainVal/46/50117.jpg
+./TrainVal/46/50630.jpg
+./TrainVal/48/52062.jpg
+./TrainVal/48/52322.jpg
+./TrainVal/51/57693.jpg
+./TrainVal/52/58667.jpg
+./TrainVal/52/59070.jpg
+./TrainVal/53/59447.jpg
+./TrainVal/58/65385.jpg
+./TrainVal/58/65274.jpg
+./TrainVal/58/66578.jpg
+./TrainVal/59/67083.jpg
+./TrainVal/63/70022.jpg
+./TrainVal/63/70619.jpg
+./TrainVal/65/73641.jpg
+./TrainVal/65/74195.jpg
+./TrainVal/65/74299.jpg
+./TrainVal/68/77057.jpg
+./TrainVal/70/116961.jpg
+./TrainVal/70/116980.jpg
+./TrainVal/70/116998.jpg
+./TrainVal/70/117229.jpg
+./TrainVal/70/117157.jpg
+./TrainVal/74/81356.jpg
+./TrainVal/74/81351.jpg
+./TrainVal/78/83348.jpg
+./TrainVal/78/83305.jpg
+./TrainVal/78/83734.jpg
+./TrainVal/78/83855.jpg
+./TrainVal/78/83869.jpg
+./TrainVal/78/83919.jpg
+./TrainVal/78/83920.jpg
+./TrainVal/83/89993.jpg
+./TrainVal/83/90919.jpg
+./TrainVal/90/100732.jpg
+./TrainVal/91/100779.jpg
+./TrainVal/91/101893.jpg
+./TrainVal/91/101428.jpg
+./TrainVal/91/101294.jpg
+./TrainVal/91/101302.jpg
+./TrainVal/91/100829.jpg
+./TrainVal/91/101469.jpg
+./TrainVal/91/100866.jpg
+./TrainVal/91/101810.jpg
+./TrainVal/91/101742.jpg
+./TrainVal/91/101817.jpg
+./TrainVal/91/102236.jpg
+./TrainVal/91/101933.jpg
+./TrainVal/91/100982.jpg
+./TrainVal/91/102382.jpg
+./TrainVal/91/102139.jpg
+./TrainVal/92/102550.jpg
+./TrainVal/93/103457.jpg
+./TrainVal/93/104442.jpg
+./TrainVal/93/105386.jpg
+./TrainVal/93/104702.jpg
+./TrainVal/93/104594.jpg
+./TrainVal/93/106203.jpg
+./TrainVal/98/113814.jpg
+./TrainVal/99/114770.jpg
+./TrainVal/99/114742.jpg
+./TrainVal/99/115176.jpg
+./public_test2018/Public/1081049.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]
+./public_test2018/Public/1187765.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]
+./public_test2018/Public/1332508.jpg  480 x 480  32bit Adobe N  191083  Unsupported color conversion request  [ERROR]
+./public_test2018/Public/1350000.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]
+./public_test2018/Public/1410410.jpg  Not a JPEG file: starts with 0x89 0x50  [ERROR]
+./public_test2018/Public/1446447.jpg  Not a JPEG file: starts with 0x42 0x4d  [ERROR]
+./public_test2018/Public/1561742.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]
+./public_test2018/Public/1577654.jpg  Empty input file  [ERROR]
+./public_test2018/Public/1584483.jpg  480 x 480  32bit Adobe N  187147  Unsupported color conversion request  [ERROR]
+./public_test2018/Public/1586567.jpg  Empty input file  [ERROR]
+./public_test2018/Public/1616460.jpg  Not a JPEG file: starts with 0x42 0x4d  [ERROR]
+./public_test2018/Public/1647230.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]
+./public_test2018/Public/1710944.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]
+./public_test2018/Public/1743730.jpg  Empty input file  [ERROR]
+./public_test2018/Public/1835711.jpg  Not a JPEG file: starts with 0x89 0x50  [ERROR]
+./public_test2018/Public/1854995.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]
+./public_test2018/Public/1922201.jpg  Not a JPEG file: starts with 0x47 0x49  [ERROR]

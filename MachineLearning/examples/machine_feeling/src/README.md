@@ -1,0 +1,2 @@
+# The Code :hushed:
+Here it is, the code you've been looking to get your hands on. Before you dive in, just know that the sample code is functional - running run.py from the sample/ directory will deliver a product...that may or may not work well. As we walk through the process, if you notice an improvement you'd like to make (adjusting the machine learning model, for example), feel free to do so. Experiment with what changes you can make on how well the model learns.
